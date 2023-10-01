@@ -21,4 +21,4 @@ Criei um arquivo através do terminal com o comando <touch index.html>
 No-  arquivo <global.css> utilizei <box-sizing> para padronizar as caixas.
 
 O resultado final:
-![print apresentação]<blockquote class="imgur-embed-pub" lang="en" data-id="a/GFAmOb1" data-context="false" ><a href="//imgur.com/a/GFAmOb1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![print apresentação][<blockquote class="imgur-embed-pub" lang="en" data-id="a/GFAmOb1" data-context="false" ><a href="//imgur.com/a/GFAmOb1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://imgur.com/a/GFAmOb1)https://imgur.com/a/GFAmOb1
