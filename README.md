@@ -23,5 +23,6 @@ No-  arquivo <global.css> utilizei <box-sizing> para padronizar as caixas.
 O resultado final:
 Resultado Final:
 
-[![print apresentação](https://imgur.com/a/GFAmOb1)https://imgur.com/a/GFAmOb1r)](https://imgur.com/pJJJQEQ)https://imgur.com/pJJJQEQ
+[![print apresentação](https://imgur.com/a/GFAmOb1)
+https://imgur.com/a/GFAmOb1r)](https://imgur.com/pJJJQEQ)https://imgur.com/pJJJQEQ
 
