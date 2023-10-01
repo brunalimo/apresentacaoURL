@@ -23,5 +23,5 @@ No-  arquivo <global.css> utilizei <box-sizing> para padronizar as caixas.
 O resultado final:
 Resultado Final:
 
-![print apresentação](URL_da_Imagem_do_Imgur)
+![print apresentação](https://imgur.com/a/GFAmOb1)https://imgur.com/a/GFAmOb1r)
 
