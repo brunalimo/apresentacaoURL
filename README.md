@@ -1,5 +1,5 @@
 # apresentacaoURL
-Projeto simples de apresentação para praticar algumas funções em html|css.
+Projeto simples de apresentação para praticar algumas funções em HTML|CSS.
 
 URL de apresentação
 
