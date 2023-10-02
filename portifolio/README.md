@@ -2,8 +2,9 @@ URL de apresentação
 
 Projeto simples de apresentação para praticar algumas funções em html|css.
 Objetivos: praticar estilizações com fontes, ícones, margens. 
+Meta: implementar mais funções e documentar as alterações.
 
-
+COMMIT 1:
 Criei um arquivo através do terminal com o comando <touch index.html>
 - Construi o documento através da estrutura <html:5>
 - Ao utilizar mobile, com <initial-scale=1.0>, a página ficará responsiva.
