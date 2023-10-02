@@ -20,8 +20,7 @@ Criei um arquivo através do terminal com o comando <touch index.html>
 
 No-  arquivo <global.css> utilizei <box-sizing> para padronizar as caixas.
 
-O resultado final:
-Resultado Final:
+Resultado Final 1:
 
 ![print](print.png)
 
