@@ -1,6 +1,6 @@
 URL de apresentação
 
-Projeto simples de apresentação para praticar algumas funções em html|css.
+Projeto simples de apresentação para praticar algumas funções em HTML|CSS.
 Objetivos: praticar estilizações com fontes, ícones, margens. 
 Meta: implementar mais funções e documentar as alterações.
 
@@ -15,8 +15,7 @@ Criei um arquivo através do terminal com o comando <touch index.html>
 
 - Para economizar kbts do usuário, comprimi o tamanho da imagem através do site <tinyPNG>.
 
-
 No-  arquivo <global.css> utilizei <box-sizing> para padronizar as caixas.
+O resultado final 1:
 
-O resultado final:
 ![print apresentação](image.png)
