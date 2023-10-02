@@ -23,7 +23,7 @@ No-  arquivo <global.css> utilizei <box-sizing> para padronizar as caixas.
 O resultado final:
 Resultado Final:
 
-![print](img/print.png)
+![print](print.png)
 
 [![print apresentação](https://imgur.com/pJJJQEQ)
 https://i.imgur.com/pJJJQEQ.png 
