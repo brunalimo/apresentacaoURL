@@ -1,7 +1,8 @@
 # apresentacaoURL
-Projeto simples de apresentação para praticar algumas funções em HTML|CSS.
-Objetivos: praticar estilizações com fontes, ícones, margens. 
-
+- Projeto simples de apresentação para praticar algumas funções em HTML|CSS.
+URL de Apresentação
+- Objetivos: praticar estilizações com fontes, ícones, margens.
+- Meta: Alterar o projeto com novas funções e estilizaçõe. Documentar o passo a passo das alterações.
 
 Criei um arquivo através do terminal com o comando <touch index.html>
 - Construi o documento através da estrutura <html:5>
