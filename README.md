@@ -3,7 +3,7 @@ Projeto simples de apresentação para praticar algumas funções em HTML|CSS.
 
 URL de apresentação
 
-Projeto simples de apresentação para praticar algumas funções em html|css.
+Projeto simples de apresentação para praticar algumas funções em HTML|CSS.
 Objetivos: praticar estilizações com fontes, ícones, margens. 
 
 
