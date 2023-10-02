@@ -16,6 +16,8 @@ Criei um arquivo através do terminal com o comando <touch index.html>
 - Para economizar kbts do usuário, comprimi o tamanho da imagem através do site <tinyPNG>.
 
 No-  arquivo <global.css> utilizei <box-sizing> para padronizar as caixas.
+
 Resultado final 1.
+
 ![print apresentação](image.png)
 
