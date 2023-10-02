@@ -1,6 +1,6 @@
 # apresentacaoURL
 - Projeto simples de apresentação para praticar algumas funções em HTML|CSS.
-URL de Apresentação
+- URL DE APRESENTAÇÃO
 - Objetivos: praticar estilizações com fontes, ícones, margens.
 - Meta: Alterar o projeto com novas funções e estilizaçõe. Documentar o passo a passo das alterações.
 
