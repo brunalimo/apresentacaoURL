@@ -1,8 +1,8 @@
 URL de apresentação
 
 Projeto simples de apresentação para praticar algumas funções em HTML|CSS.
-Objetivos: praticar estilizações com fontes, ícones, margens. 
-Meta: implementar mais funções e documentar as alterações.
+- Objetivos: praticar estilizações com fontes, ícones, margens. 
+- Meta: implementar mais funções e documentar as alterações.
 
 COMMIT 1:
 Criei um arquivo através do terminal com o comando <touch index.html>
