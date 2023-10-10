@@ -17,7 +17,13 @@
 
 No-  arquivo <global.css> utilizei <box-sizing> para padronizar as caixas.
 
-Resultado Final 1:
+Resultado 1:
 
 ![print](print.png)
 
+#Commit2 - Adição de background
+- Importei do figma as configurações de um background gradiente para ficar posicionado ".main::after", antes de "main" e ao topo da página.
+- Repeti o processo depois, ".main::after" e girei o gradiente para ser posicionado ao bottom da pagina.
+- 
+Resultado 2:
+![print](img2.png)
