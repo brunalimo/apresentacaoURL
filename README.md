@@ -24,6 +24,6 @@ Resultado 1:
 - Importei do figma as configurações de um background gradiente para ficar posicionado ".main::after", antes de "main" e ao topo da página.
 - Repeti o processo depois, ".main::after" e girei o gradiente para ser posicionado ao bottom da pagina.
   
-Resultado 2:
+- Resultado 2:
 
 ![print](img2.png)
